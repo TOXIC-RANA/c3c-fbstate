@@ -1,14 +1,38 @@
-# c3c fbstate download 
+# 🚀 C3C FBState Downloader  
 
-A powerful multi-platform c3c fbstate that supports kiwi and mises browser.
+A powerful multi-platform **C3C FBState Downloader** that seamlessly supports **Kiwi** and **Mises Browser**. Get your **FBState** easily and securely with just a few clicks!  
 
-## Installation & Usage 🛃
-1. Download the c3c fbstate from the link below.
-2. Download The Extension .
-3. Add Your Browser and Enjoy.
+---
 
-## Download ⬇️
-[Click here to download](https://drive.google.com/file/d/10-z_qk0sHDQq2b8kTXao5myP1tWKnHmQ/view?usp=drivesdk)
+## 🌟 Features  
+✅ Supports **Kiwi & Mises Browser**  
+✅ Simple and Easy to Use  
+✅ Fast & Secure FBState Extraction  
+✅ Lightweight and Efficient  
 
-## License
-This project is licensed under the MIT License.
+---
+
+## 📌 How to Install & Use  
+
+1️⃣ **Download** the C3C FBState tool from the link below.  
+2️⃣ **Download & Install** the extension.  
+3️⃣ **Add** it to your preferred browser.  
+4️⃣ **Enjoy** seamless access to your FBState!  
+
+---
+
+## ⬇️ Download Now  
+[📥 Click Here to Download](https://drive.google.com/file/d/10-z_qk0sHDQq2b8kTXao5myP1tWKnHmQ/view?usp=drivesdk)  
+
+---
+
+## 👨‍💻 Developer Info  
+**Developer:** [Mohammad Rana]  
+**Facebook:** [![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-blue?style=flat&logo=facebook)](https://www.facebook.com/XAICO.RANA)  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License**.  
+
+⚡ **Enjoy hassle-free FBState extraction today!**
