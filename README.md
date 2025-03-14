@@ -1,6 +1,6 @@
 # 🚀 C3C FBState Downloader  
 
-![View Count](https://komarev.com/ghpvc/?TOXIC-RANA=YourGitHubUsername&label=Views&color=blue&style=flat)  
+![View Count](https://komarev.com/ghpvc/?username=TOXIC-RANA&label=Views&color=blue&style=flat)
 
 A powerful multi-platform **C3C FBState Downloader** that seamlessly supports **Kiwi** and **Mises Browser**. Get your **FBState** easily and securely with just a few clicks!  
 
